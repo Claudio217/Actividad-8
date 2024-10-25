@@ -1,0 +1,33 @@
+RESTA $0,$4,$6
+RESTA $1,$7,$1
+RESTA $2,$17,$24
+
+LEER $0
+LEER $1
+LEER $2
+
+SUMA $3,$1,$10
+SUMA $4,$5,$19
+SUMA $5,$22,$20
+
+LEER $3
+LEER $4
+LEER $5
+
+MAYORQ $6,$6,$16
+MAYORQ $7,$11,$17
+
+LEER $6
+LEER $7
+
+AND $6,$21,$13
+AND $7,$2,$4
+
+LEER $6
+LEER $7
+
+OR $6,$9,$26
+OR $7,$8,$5
+
+LEER $6
+LEER $7
